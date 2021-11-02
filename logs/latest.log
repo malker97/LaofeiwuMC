@@ -1,0 +1,121 @@
+[03:21:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:21:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:21:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:21:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:21:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:21:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:21:37] [main/INFO]: Reloading ResourceManager: Default
+[03:21:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[03:21:40] [Worker-Main-2/INFO]: Loaded 1137 advancements
+[03:21:44] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[03:21:44] [Server thread/INFO]: Loading properties
+[03:21:44] [Server thread/INFO]: Default game type: SURVIVAL
+[03:21:44] [Server thread/INFO]: Generating keypair
+[03:21:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:21:44] [Server thread/INFO]: Using epoll channel type
+[03:21:45] [Server thread/INFO]: Preparing level "world"
+[03:21:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:21:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:21:53] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[03:21:54] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[03:21:54] [Worker-Main-2/INFO]: Preparing spawn area: 50%
+[03:21:56] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[03:21:56] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[03:21:56] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[03:22:05] [Server thread/INFO]: Time elapsed: 20253 ms
+[03:22:05] [Server thread/INFO]: Done (20.449s)! For help, type "help"
+[03:23:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@14732248[id=<null>,name=Pandada1,properties={},legacy=false] (/172.73.169.6:52866) lost connection: Disconnected
+[03:23:33] [User Authenticator #1/INFO]: UUID of player Pandada1 is f74ea3df-407c-4178-b8fa-3d01e38a1d61
+[03:23:34] [Server thread/INFO]: Pandada1[/172.73.169.6:52881] logged in with entity id 204 at (-159.27128073250745, 82.0, 228.32596355000678)
+[03:23:34] [Server thread/INFO]: Pandada1 joined the game
+[03:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[03:23:44] [User Authenticator #2/INFO]: UUID of player Malker9797 is ee6fbc78-7581-407e-bf86-46bf02447c39
+[03:23:44] [Server thread/INFO]: Malker9797[/76.27.194.5:4418] logged in with entity id 487 at (-170.35935571030905, 101.37947214616577, 228.8103177106755)
+[03:23:44] [Server thread/INFO]: Malker9797 joined the game
+[03:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16106ms or 322 ticks behind
+[03:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3419ms or 68 ticks behind
+[03:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[03:26:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10479ms or 209 ticks behind
+[03:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10289ms or 205 ticks behind
+[03:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4796ms or 95 ticks behind
+[03:32:58] [Server thread/WARN]: Malker9797 moved too quickly! 1.5284026102638677,0.0,10.74979202051972
+[03:37:59] [Server thread/WARN]: Malker9797 moved too quickly! -6.923123243123015,0.0,-8.400353664257892
+[03:45:50] [Server thread/INFO]: Pandada1 has made the advancement [A Seedy Place]
+[03:46:22] [Server thread/INFO]: [Malker9797: Teleported Malker9797 to Pandada1]
+[03:52:55] [Server thread/WARN]: Malker9797 moved too quickly! -6.411264545328075,0.0,-8.523308315428096
+[03:52:58] [Server thread/WARN]: Malker9797 moved too quickly! -4.2172827125986565,0.0,-9.774011360096864
+[03:53:06] [Server thread/INFO]: [Malker9797: Set the weather to rain]
+[03:53:30] [Server thread/INFO]: [Malker9797: Set the weather to rain & thunder]
+[03:53:35] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[03:55:45] [Server thread/INFO]: [Malker9797: Gave 1 [Block of Amethyst] to Malker9797]
+[03:56:03] [Server thread/INFO]: [Malker9797: Gave 1 [Block of Amethyst] to Malker9797]
+[03:57:58] [Server thread/WARN]: Malker9797 moved too quickly! 6.624173730077189,0.0,-8.642107793228604
+[03:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:00:18] [Server thread/INFO]: [Malker9797: Teleported Pandada1 to Malker9797]
+[04:03:01] [Server thread/WARN]: Pandada1 moved too quickly! -5.155876455909095,1.6983022265338121,-8.693481403661906
+[04:13:26] [Server thread/INFO]: [Malker9797: Teleported Malker9797 to Pandada1]
+[04:15:01] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:15:13] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[04:20:33] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:25:37] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:25:50] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[04:30:43] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:35:55] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:36:07] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[04:41:02] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:46:06] [Server thread/INFO]: [Malker9797: Set the time to 1]
+[04:46:11] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[04:46:22] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:51:49] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[04:56:11] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[04:56:59] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:02:17] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:03:20] [Server thread/INFO]: [Pandada1: Saved the game]
+[05:07:27] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:07:34] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[05:14:06] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:19:28] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:19:37] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[05:19:43] [Server thread/INFO]: [Pandada1: Saved the game]
+[05:26:23] [Server thread/INFO]: [Pandada1: Saved the game]
+[05:29:43] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:29:52] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[05:34:48] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:40:14] [Server thread/INFO]: [Malker9797: Set the weather to clear]
+[05:41:20] [Server thread/INFO]: [Malker9797: Set the time to 1000]
+[05:41:23] [Server thread/INFO]: [Pandada1: Saved the game]
+[05:41:23] [Server thread/INFO]: [Malker9797: Saved the game]
